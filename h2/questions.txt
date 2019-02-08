@@ -1,0 +1,5 @@
+List three questions that you had to answer in the process of writing these two functions--specifically,
+questions for which the answer determined the behavior of the functions.  Also, state the answers to
+these three question
+
+1. 
