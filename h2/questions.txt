@@ -2,4 +2,18 @@ List three questions that you had to answer in the process of writing these two 
 questions for which the answer determined the behavior of the functions.  Also, state the answers to
 these three question
 
-1. 
+1. What language am I going to program this in?
+ - I chose to use python, mainly because I've been learning web frameworks with it lately and I like it
+   better than Java. The short syntax is another main selling point.
+
+2. How do you calculate mean and mode?
+ - I understand that I'm a senior in college, and I did know mean by heart, but I wanted to double check
+   and be sure I was going to return the right values.
+
+3. How am I going to make the functions calculate mean and mode? Am I going to code it myself or use
+   a library?
+ - Initially I wanted to do all of the programming myself, so that is why my get_mean() function was
+   programmed by hand. I thought about how I could most easily count the items in the list for the
+   get_mode() function and after looking up techniques I started looking for libraries instead. Eventually
+   I found the built in python statistics package and chose that for my function. If I were releasing this
+   code somewhere, I would certainly use the statistics package for both functions.
